@@ -25,58 +25,58 @@
         "Stronghold 3": ["242, -82"]
     },
     "5": {
-        "Stronghold 1": ["-142,213"],
-        "Stronghold 2": ["-113-230"],
-        "Stronghold 3": ["255,17"]
+        "Stronghold 1": ["-142, 213"],
+        "Stronghold 2": ["-113, -230"],
+        "Stronghold 3": ["255, 17"]
     },
     "6": {
-        "Stronghold 1": ["-213,142"],
-        "Stronghold 2": ["-17,-255"],
-        "Stronghold 3": ["230,113"]
+        "Stronghold 1": ["-213, 142"],
+        "Stronghold 2": ["-17, -255"],
+        "Stronghold 3": ["230, 113"]
     },
     "7": {
-        "Stronghold 1": ["-251,50"],
-        "Stronghold 2": ["82,-242"],
-        "Stronghold 3": ["169,192"]
+        "Stronghold 1": ["-251, 50"],
+        "Stronghold 2": ["82, -242"],
+        "Stronghold 3": ["169, 192"]
     },
     "8": {
-        "Stronghold 1": ["-251,-50"],
-        "Stronghold 2": ["169,-192"],
-        "Stronghold 3": ["82,242"]
+        "Stronghold 1": ["-251, -50"],
+        "Stronghold 2": ["169, -192"],
+        "Stronghold 3": ["82, 242"]
     },
     "9": {
-        "Stronghold 1": ["-213,-142"],
-        "Stronghold 2": ["230,-113"],
-        "Stronghold 3": ["-17,255"]
+        "Stronghold 1": ["-213, -142"],
+        "Stronghold 2": ["230, -113"],
+        "Stronghold 3": ["-17, 255"]
     },
     "10": {
-        "Stronghold 1": ["-142,-213"],
-        "Stronghold 2": ["255,-17"],
-        "Stronghold 3": ["-113,230"]
+        "Stronghold 1": ["-142, -213"],
+        "Stronghold 2": ["255, -17"],
+        "Stronghold 3": ["-113, 230"]
     },
     "11": {
-        "Stronghold 1": ["-50,-251"],
-        "Stronghold 2": ["-242,82"],
-        "Stronghold 3": ["-192,169"]
+        "Stronghold 1": ["-50, -251"],
+        "Stronghold 2": ["-242, 82"],
+        "Stronghold 3": ["-192, 169"]
     },
     "12": {
-        "Stronghold 1": ["50,-251"],
-        "Stronghold 2": ["192,169"],
-        "Stronghold 3": ["-242,82"]
+        "Stronghold 1": ["50, -251"],
+        "Stronghold 2": ["192, 169"],
+        "Stronghold 3": ["-242, 82"]
     },
     "13": {
-        "Stronghold 1": ["142,-213"],
-        "Stronghold 2": ["113,230"],
-        "Stronghold 3": ["-255,-17"]
+        "Stronghold 1": ["142, -213"],
+        "Stronghold 2": ["113, 230"],
+        "Stronghold 3": ["-255, -17"]
     },
     "14": {
-        "Stronghold 1": ["213,-142"],
-        "Stronghold 2": ["17,255"],
-        "Stronghold 3": ["-230,-113"]
+        "Stronghold 1": ["213, -142"],
+        "Stronghold 2": ["17, 255"],
+        "Stronghold 3": ["-230, -113"]
     },
     "15": {
-        "Stronghold 1": ["251,-50"],
-        "Stronghold 2": ["-82,242"],
-        "Stronghold 3": ["-169,-192"]
+        "Stronghold 1": ["251, -50"],
+        "Stronghold 2": ["-82, 242"],
+        "Stronghold 3": ["-169, -192"]
     }
 }
